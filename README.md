@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/nilesh0002/INT428/tree/master/0648-replace-words) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nilesh0002/INT428/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/nilesh0002/INT428/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nilesh0002/INT428/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
+| [3665-twisted-mirror-path-count](https://github.com/nilesh0002/INT428/tree/master/3665-twisted-mirror-path-count) |
 ## Trie
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nilesh0002/INT428/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/nilesh0002/INT428/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
