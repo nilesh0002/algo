@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nilesh0002/INT428/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0648-replace-words](https://github.com/nilesh0002/INT428/tree/master/0648-replace-words) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nilesh0002/INT428/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/nilesh0002/INT428/tree/master/3665-twisted-mirror-path-count) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/nilesh0002/INT428/tree/master/3665-twisted-mirror-path-count) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nilesh0002/INT428/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
