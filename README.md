@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/nilesh0002/INT428/tree/master/0648-replace-words) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nilesh0002/INT428/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nilesh0002/INT428/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nilesh0002/INT428/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nilesh0002/INT428/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nilesh0002/INT428/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/nilesh0002/INT428/tree/master/3665-twisted-mirror-path-count) |
