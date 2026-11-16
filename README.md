@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/nilesh0002/INT428/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/nilesh0002/INT428/tree/master/0686-repeated-string-match) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nilesh0002/INT428/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nilesh0002/INT428/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nilesh0002/INT428/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nilesh0002/INT428/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nilesh0002/INT428/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
