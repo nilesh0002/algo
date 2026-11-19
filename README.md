@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/nilesh0002/INT428/tree/master/0210-course-schedule-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nilesh0002/INT428/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/nilesh0002/INT428/tree/master/0210-course-schedule-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nilesh0002/INT428/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nilesh0002/INT428/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/nilesh0002/INT428/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/nilesh0002/INT428/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
