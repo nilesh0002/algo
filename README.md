@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/nilesh0002/INT428/tree/master/0648-replace-words) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nilesh0002/INT428/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nilesh0002/INT428/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nilesh0002/INT428/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nilesh0002/INT428/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nilesh0002/INT428/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nilesh0002/INT428/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nilesh0002/INT428/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nilesh0002/INT428/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nilesh0002/INT428/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nilesh0002/INT428/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/nilesh0002/INT428/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/nilesh0002/INT428/tree/master/3693-climbing-stairs-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nilesh0002/INT428/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nilesh0002/INT428/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nilesh0002/INT428/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Sliding Window
 |  |
 | ------- |
