@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/nilesh0002/INT428/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nilesh0002/INT428/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nilesh0002/INT428/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/nilesh0002/INT428/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nilesh0002/INT428/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nilesh0002/INT428/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/nilesh0002/INT428/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nilesh0002/INT428/tree/master/0055-jump-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/nilesh0002/INT428/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
