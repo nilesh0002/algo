@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nilesh0002/INT428/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nilesh0002/INT428/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nilesh0002/INT428/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nilesh0002/INT428/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/nilesh0002/INT428/tree/master/0139-word-break) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nilesh0002/INT428/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/nilesh0002/INT428/tree/master/3665-twisted-mirror-path-count) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nilesh0002/INT428/tree/master/0055-jump-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/nilesh0002/INT428/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
